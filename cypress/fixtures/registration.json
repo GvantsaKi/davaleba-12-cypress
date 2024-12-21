@@ -1,0 +1,14 @@
+{
+    "gender": "Mrs.",
+    "password": "123456",
+    "birthDate": {"day": 9, "month": 1, "year": "1999"},
+    "firstName": "Gvantsa",
+    "lastName": "Kintsurashvili",
+    "address": "Tbilisi",
+    "country": "Canada",
+    "state": "test",
+    "city": "test",
+    "zipcode": 1234,
+    "mobileNumber": "123454656",
+    "email": "gvantsa12@gmail.com"
+  }
